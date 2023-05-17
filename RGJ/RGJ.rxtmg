@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="RGJ"
+      id="f0dab7dc-6f34-4464-8c71-603d8b359ef5"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="RGJ"
+      id="f0dab7dc-6f34-4464-8c71-603d8b359ef5"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
